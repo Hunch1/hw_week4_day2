@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://sevopecu:Z7zf8CZkb6wpq3osckAO_cfNFZKMiEV5@suleiman.db.elephantsql.com/sevopecu",
+            "name": "thieves133"
+        }
+    ]
+}
